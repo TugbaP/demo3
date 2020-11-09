@@ -1,2 +1,3 @@
 * File.txt is initialized.
 * File.txt is modified.
+* File.txt is modified under newbranch.
